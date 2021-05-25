@@ -1,12 +1,14 @@
-### Olá :wave: Eu sou o Luiz Felipe ###
+### 👋 Olá, tudo bem? ###
+
+Meu nome é Luiz Felipe Araujo, tenho 31 anos, moro em Volta Redonda-RJ e estou num momento de transição de carreira :blush:
 
 ![Cat Coding](https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif)
 
-<a href="https://www.linkedin.com/in/luizfelipedev">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  <a href="www.instagram.com/thelastnail">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/luizfelipedev" target=blank>![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-Tenho 31 anos, moro em Volta Redonda-RJ e estou em momento de transição de carreira :blush:
+:mortar_board: Bacharel em Sistemas de Informação 
 
-:computer: Estudo desenvolvimento-web *front-end* pela <a href="https://www.betrybe.com/" target="blank">Trybe</a>, onde aprendemos hard e soft-skills diariamente.
+:computer: Atualmente estudo desenvolvimento-web *front-end* pela <a href="https://www.betrybe.com/" target="blank">Trybe</a>, onde aprendemos hard e soft-skills diariamente.
 
 :earth_americas: Open to Work:  Volta Redonda-RJ / São Paulo-SP
 
