@@ -6,7 +6,7 @@
 
 Eu sou o Luiz Felipe, tenho 31 anos, moro em Volta Redonda-RJ e estou em momento de transição de carreira :blush:
 
-:computer: Estudo desenvolvimento-web pela <a href="https://www.betrybe.com/" target="blank">Trybe</a>, onde aprendemos hard e soft-skills diariamente.
+:computer: Estudo desenvolvimento-web *front-end* pela <a href="https://www.betrybe.com/" target="blank">Trybe</a>, onde aprendemos hard e soft-skills diariamente.
 
 :earth_americas: Open to Work:  Volta Redonda-RJ / São Paulo-SP
 
@@ -15,7 +15,7 @@ Eu sou o Luiz Felipe, tenho 31 anos, moro em Volta Redonda-RJ e estou em momento
 
 **Meus objetivos:**
 
-- Aprender desenvolvimento Back-End :heart_eyes:
+- Aprender também sobre desenvolvimento Back-End :heart_eyes:
 - Ingressar numa carreira como Dev Junior
 
 **Meus Hobbies:**
