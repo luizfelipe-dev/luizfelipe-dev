@@ -1,10 +1,10 @@
-### Olá :wave: Bem Vindo ao meu GitHub! ###
+### Olá :wave: Eu sou o Luiz Felipe ###
 
 ![Cat Coding](https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif)
 
 <a href="https://www.linkedin.com/in/luizfelipedev">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  <a href="www.instagram.com/thelastnail">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
-Eu sou o Luiz Felipe, tenho 31 anos, moro em Volta Redonda-RJ e estou em momento de transição de carreira :blush:
+Tenho 31 anos, moro em Volta Redonda-RJ e estou em momento de transição de carreira :blush:
 
 :computer: Estudo desenvolvimento-web *front-end* pela <a href="https://www.betrybe.com/" target="blank">Trybe</a>, onde aprendemos hard e soft-skills diariamente.
 
