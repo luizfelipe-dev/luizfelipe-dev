@@ -4,7 +4,8 @@ Meu nome é Luiz Felipe Araujo, tenho 31 anos, moro em Volta Redonda-RJ e estou 
 
 ![Cat Coding](https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif)
 
-<a href="https://www.linkedin.com/in/luizfelipedev" target=blank>![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/luizfelipedev" target="blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/luizfelipedev" target="blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 :mortar_board: Bacharel em Sistemas de Informação 
 
@@ -20,7 +21,7 @@ Meu nome é Luiz Felipe Araujo, tenho 31 anos, moro em Volta Redonda-RJ e estou 
 
 **Meus Hobbies:**
 
-- Sou apaixonado pelo mundo da música underground :musical_note:
+- Amo DJing e sou apaixonado pelo mundo da música :musical_note:
 - Também curto pedalar pra distrair a cabeça :bike:
 
 **:seedling: Meus conhecimentos em *React*:**
