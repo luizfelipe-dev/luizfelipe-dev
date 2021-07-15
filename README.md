@@ -8,31 +8,29 @@ Meu nome é Luiz Felipe Araujo, tenho 31 anos, moro em Volta Redonda-RJ e estou 
 
 :mortar_board: Bacharel em Sistemas de Informação 
 
-:computer: Atualmente estudo desenvolvimento-web *front-end* pela <a href="https://www.betrybe.com/" target="blank">Trybe</a>, onde aprendemos hard e soft-skills diariamente.
+:computer: Atualmente estudo desenvolvimento-web *back-end* pela <a href="https://www.betrybe.com/" target="blank">Trybe</a>, onde aprendemos hard e soft-skills diariamente.
 
 :earth_americas: Open to Work:  Volta Redonda-RJ / São Paulo-SP
 
 <hr>
 
+**Meu maior objetivo atual:**
 
-**Meus objetivos:**
-
-- Aprender também sobre desenvolvimento Back-End :heart_eyes:
-- Ingressar numa carreira como Dev Junior
+- Ingressar na carreira como Dev Junior em uma empresa com ambiente agradável
 
 **Meus Hobbies:**
 
 - Sou apaixonado pelo mundo da música underground :musical_note:
 - Também curto pedalar pra distrair a cabeça :bike:
 
-**:seedling: Atualmente estou aprendendo *React*:**
+**:seedling: Meus conhecimentos em *React*:**
 - Componentes com estados e eventos
 - Ciclos de Vida, Rotas, Desenvolvimento de CRUDs
 - Testes automatizados com React-Testing-Library (RTL)
 - Gerenciamento de Estados com Redux
 - Context API, Hooks
 
-Tenho utilizado *Scrum* e *Kanban* para os Projetos em Grupo
+Tenho utilizado *Kanban* para os Projetos em Grupo
 
 **Minhas ferramentas cotidianas:**
 
@@ -47,7 +45,7 @@ Tenho utilizado *Scrum* e *Kanban* para os Projetos em Grupo
 
 I am 31 years old, living in Volta Redonda-RJ and in a moment of career transition
 
-I'm studying Web development with HTML, CSS, Javascript with React by <a href="www.betrybe.com">Trybe</a>, where we learn hard and soft-skills daily.
+I'm studying Web development by <a href="www.betrybe.com">Trybe</a>, where we learn hard and soft-skills daily.
 
 Open to Work!
 
