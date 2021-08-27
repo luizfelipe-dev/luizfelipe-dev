@@ -1,6 +1,6 @@
 ## Olá, tudo bem? ###
 
-Meu nome é Luiz Felipe Araujo, tenho 31 anos, moro em Volta Redonda-RJ e estou fazendo transição de carreira.
+Meu nome é Luiz Felipe Araujo, tenho 31, moro em Volta Redonda-RJ e estou fazendo transição de carreira o/
 
 ![Cat Coding](https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif)
 
@@ -16,11 +16,11 @@ Meu nome é Luiz Felipe Araujo, tenho 31 anos, moro em Volta Redonda-RJ e estou 
 
 **Meu objetivo atual:**
 
-- Ingressar na carreira como Dev Junior em uma empresa com ambiente agradável
+- Ingressar na carreira de Dev em uma empresa com ambiente de trabalho agradável
 
 **Meus Hobbies:**
 
-- Me divirto sendo DJ ou tocando guitarra/bateria por diversão :musical_note:
+- Music!!! Amo DJing, guitarra e batera!!! :musical_note:
 - Também curto pedalar pra distrair a cabeça :bike:
 
 **Projeto Profissional Paralelo:**
