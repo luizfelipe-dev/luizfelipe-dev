@@ -44,7 +44,7 @@ Meu nome é Luiz Felipe Araujo, tenho 31, moro em Volta Redonda-RJ e estou fazen
 
 - MySQL: Modelagem básica, Filtros, Funções e Triggers
 - MongoDB: Filtros, Updates, Aggregation
-- Node: Flluxo Assíncrono, Testes, Express, JWT, Multer <<<
+- Node: Fluxo Assíncrono, Testes, Express, JWT, Multer
 - Camada de Serviço: Model, Controller, Service, Arquitetura Rest e Restful, Solid e ORM
 - Deployment com Heroku e Sockets
 
