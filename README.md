@@ -8,7 +8,7 @@ Meu nome é Luiz Felipe Araujo, tenho 31, moro em Volta Redonda-RJ e estou fazen
 
 :mortar_board: Bacharel em Sistemas de Informação 
 
-:computer: Estudante Full-Stack da <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.
+:computer: Estudante Full-Stack da <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
 
 :earth_americas: Open to Work:  Volta Redonda-RJ / São Paulo-SP
 
@@ -16,7 +16,7 @@ Meu nome é Luiz Felipe Araujo, tenho 31, moro em Volta Redonda-RJ e estou fazen
 
 **Meu objetivo atual:**
 
-- Ingressar na carreira de Dev em uma empresa com ambiente de trabalho agradável
+- Ingressar na carreira de Dev em uma empresa com ambiente de trabalho agradável :)
 
 **Meus Hobbies:**
 
@@ -44,7 +44,7 @@ Meu nome é Luiz Felipe Araujo, tenho 31, moro em Volta Redonda-RJ e estou fazen
 
 - MySQL: Modelagem básica, Filtros, Funções e Triggers
 - MongoDB: Filtros, Updates, Aggregation
-- Node: Flluxo Assíncrono, Testes, Express, JWT, Multer
+--->> Node: Flluxo Assíncrono, Testes, Express, JWT, Multer
 - Camada de Serviço: Model, Controller, Service, Arquitetura Rest e Restful, Solid e ORM
 - Deployment com Heroku e Sockets
 
