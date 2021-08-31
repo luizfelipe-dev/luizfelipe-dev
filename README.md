@@ -22,8 +22,9 @@ Meu nome é Luiz Felipe Araujo, tenho 31, moro em Volta Redonda-RJ e estou fazen
 
 **Meus Hobbies:**
 
-- Music!!! Amo DJing, guitarra e batera!!! :musical_note:
-- Também curto pedalar pra distrair a cabeça :bike:
+:musical_note: Mixagem, guitarra e bateria são minhas paixões
+
+:bike: Também curto pedalar pra distrair a cabeça 
 
 **Projeto Profissional Paralelo:**
 - Curso de Discotecagem Online pela <a href="https://escola130db.netlify.app/" target="_blank">Escola 130dB</a>
