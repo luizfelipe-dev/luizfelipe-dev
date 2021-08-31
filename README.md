@@ -6,6 +6,8 @@ Meu nome é Luiz Felipe Araujo, tenho 31, moro em Volta Redonda-RJ e estou fazen
 
 <a href="https://www.linkedin.com/in/luizfelipedev" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
+📫 luizfelipe.89@outlook.com
+
 :mortar_board: Bacharel em Sistemas de Informação 
 
 :computer: Estudante Full-Stack da <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
