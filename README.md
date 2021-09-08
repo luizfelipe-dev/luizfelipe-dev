@@ -1,6 +1,6 @@
 ## Olá, tudo bem? ###
 
-Meu nome é Luiz Felipe Araujo, tenho 31, moro em Volta Redonda-RJ e estou fazendo transição de carreira o/
+Meu nome é Luiz Felipe Araujo, 31, residente em Volta Redonda-RJ e atualmente fazendo transição de carreira o/
 
 ![Cat Coding](https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif)
 
@@ -47,8 +47,8 @@ Meu nome é Luiz Felipe Araujo, tenho 31, moro em Volta Redonda-RJ e estou fazen
 
 - MySQL: Modelagem básica, Filtros, Funções e Triggers
 - MongoDB: Filtros, Updates, Aggregation
-- Node: Fluxo Assíncrono, Testes, Express, JWT, Multer
-- Camada de Serviço: Model, Controller, Service, Arquitetura Rest e Restful, Solid e ORM
+- Node: Fluxo Assíncrono, Testes, ExpressJS, JWT, Multer
+- Arquitetura MSC (Model, Service & Controller), Arquitetura Rest/Restful, Solid e ORM
 - Deployment com Heroku e Sockets
 
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SOCKET](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white) ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
