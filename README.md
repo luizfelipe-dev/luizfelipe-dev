@@ -22,7 +22,7 @@ Meu nome é Luiz Felipe Araujo, 31, residente em Volta Redonda-RJ e atualmente f
 
 **Meus Hobbies:**
 
-:musical_note: Mixagem, guitarra e bateria são minhas paixões
+- Mixagem, guitarra e bateria são minhas paixões :musical_note: 
 
 **Projeto Profissional Paralelo:**
 - Curso de Discotecagem Online pela <a href="https://escola130db.netlify.app/" target="_blank">Escola 130dB</a>
@@ -46,7 +46,7 @@ Meu nome é Luiz Felipe Araujo, 31, residente em Volta Redonda-RJ e atualmente f
 - MySQL: Modelagem básica, Filtros, Funções e Triggers
 - MongoDB: Filtros, Updates, Aggregation
 - Node: Fluxo Assíncrono, Testes, ExpressJS, JWT, Multer
-- Arquitetura MSC (Model, Service & Controller), Arquitetura Rest/Restful, Solid e ORM
+- Arquitetura MSC, API Rest/Restful, Solid e ORM
 - Deployment com Heroku e Sockets
 
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SOCKET](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white) ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
