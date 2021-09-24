@@ -6,26 +6,25 @@ Meu nome é Luiz Felipe Araujo, 31, residente em Volta Redonda-RJ e atualmente f
 
 <a href="https://www.linkedin.com/in/luizfelipedev" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-📫 Contato: luizfelipe.89@outlook.com
-
-:mortar_board: Bacharel em Sistemas de Informação 
-
-:computer: Estudante Full-Stack da <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
+📫 Contato: luizfelipe.89@outlook.com 
 
 :earth_americas: Open to Work:  Volta Redonda-RJ / São Paulo-SP
 
 <hr>
 
-**Meu objetivo atual:**
+:mortar_board: Ensino Técnico em Informática pelo <a href="https://www.colegioict.com.br/">ICT</a> 
 
-- Ingressar na carreira de Dev em uma empresa com ambiente de trabalho agradável :)
+:mortar_board:  Bacharelado em Sistemas de Informação pela <a href="https://www.unifoa.edu.br/"> UniFOA</a> 
 
-**Meus Hobbies:**
+:mortar_board:  Estudante Full-Stack da <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
 
-- Mixagem, guitarra e bateria são minhas paixões :musical_note: 
+<hr>
 
-**Projeto Profissional Paralelo:**
-- Curso de Discotecagem Online pela <a href="https://escola130db.netlify.app/" target="_blank">Escola 130dB</a>
+Meu objetivo atual é ingressar na carreira de Dev em uma empresa com ambiente de trabalho :)
+
+Meus hobbies são mixagem, guitarra e bateria :musical_note: 
+
+Também tenho um projeto profissional paralelo online: <a href="https://escola130db.netlify.app/" target="_blank">Escola 130dB</a>
 
 <hr>
 
