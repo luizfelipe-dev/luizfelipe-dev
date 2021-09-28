@@ -1,6 +1,6 @@
 ## Olá, tudo bem? ###
 
-Meu nome é Luiz Felipe Araujo, 31, residente em Volta Redonda-RJ e atualmente fazendo transição de carreira o/
+Aqui é o Felipe, tenho 31 anos e moro em Volta Redonda-RJ 
 
 ![Coding](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
 
