@@ -20,9 +20,9 @@ Meu nome é Luiz Felipe Araujo, 31, residente em Volta Redonda-RJ e atualmente f
 
 <hr>
 
-Meu objetivo atual é ingressar na carreira de Dev em uma empresa com ambiente de trabalho :)
+Na busca para trabalhar uma empresa com ambiente de trabalho leve e descontraído, com uma equipe colaborativa :)
 
-Meus hobbies são mixagem, guitarra e bateria :musical_note: 
+Meus principais hobbies são a mixagem, guitarra e bateria :musical_note: 
 
 Também tenho um projeto profissional paralelo online: <a href="https://escola130db.netlify.app/" target="_blank">Escola 130dB</a>
 
