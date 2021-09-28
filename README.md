@@ -2,7 +2,7 @@
 
 Meu nome é Luiz Felipe Araujo, 31, residente em Volta Redonda-RJ e atualmente fazendo transição de carreira o/
 
-![Cat Coding](https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif)
+![Coding](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
 
 <a href="https://www.linkedin.com/in/luizfelipedev" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
