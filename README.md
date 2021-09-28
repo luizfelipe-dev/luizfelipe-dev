@@ -28,7 +28,7 @@ Também tenho um projeto profissional paralelo online: <a href="https://escola13
 
 <hr>
 
-## Conhecimentos:
+### Áreas de Conhecimentos:
 
 #### **:seedling: Front-End com *React*:**
 
