@@ -52,7 +52,7 @@ Venho estudando de forma generalista as seguintes tecnologias:
 
 ## Próximos Passos?
 
-:busts_in_silhouette: Estou buscando uma vaga em uma empresa com ambiente leve/descontraído
+:busts_in_silhouette: Estou buscando uma vaga em uma empresa com ambiente leve e descontraído
 
 :computer: Estou amando o universo Back-End e quero aprender cada vez mais sobre!
 
