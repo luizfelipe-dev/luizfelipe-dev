@@ -56,7 +56,7 @@ Venho estudando de forma generalista as seguintes tecnologias:
 
 :computer: Estou amando o universo Back-End e quero aprender cada vez mais sobre!
 
-:cloud: Containers e Cloud estão no radar de próximos aprendizados :)
+:cloud: Typescript, Containers e Cloud estão no radar de próximos aprendizados :)
 
 ## **:octocat: My Git Stats:**
 
