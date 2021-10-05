@@ -45,8 +45,7 @@ Também tenho um projeto profissional paralelo online: <a href="https://escola13
 - MySQL: Modelagem básica, Filtros, Funções e Triggers
 - MongoDB: Filtros, Updates, Aggregation
 - Node: Fluxo Assíncrono, Testes, ExpressJS, JWT, Multer
-- Arquitetura MSC, API Rest/Restful, Solid e ORM
-- Deployment com Heroku e Sockets
+- Arquitetura MSC, API Rest/Restful, Solid e ORM, Sockets
 
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SOCKET](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white) ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
