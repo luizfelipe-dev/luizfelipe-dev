@@ -53,12 +53,12 @@ Aqui é o Felipe, tenho 31 anos e moro em Volta Redonda-RJ
 
 ## Mais sobre mim
 
-- Gosto muito de mixagem :minidisc: e de tocar instrumentos como guitarra e bateria :metal: 
-- Gosto de pedalar :bicyclist: e treinar :muscle: (ouvindo uma boa música, é claro rs)
+- Curto muito mixagem :minidisc: e tocar instrumentos como guitarra e bateria :metal: 
+- Gosto de pedalar :bicyclist: e treinar :muscle:
 - Tenho um projeto profissional paralelo online: <a href="https://escola130db.netlify.app/" target="_blank">Escola 130dB</a> 🔊
-- Tenho muita admiração por criação/edição audiovisual :movie_camera:
-- Gosto muito da filosofia budista :pray:
-- Atualmente empolgado com o universo Back-End e em busca de uma vaga numa empresa com ambiente leve e descontraído :)
+- Tenho grande admiração por criação e edição audiovisual :movie_camera:
+- Gosto da filosofia budista e meditação :pray:
+- Sou empolgado pelo universo Back-End :rocket: e gostaria de trabalhar em um ambiente descontraído :relieved:
 
 <hr> 
 
