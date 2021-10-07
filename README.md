@@ -35,7 +35,7 @@ Aqui é o Felipe, tenho 31 anos e moro em Volta Redonda-RJ
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
 
-#### :cloud: Back End
+#### :cloud: Back-End
 - Construção de APIs com NodeJS e Express
 - Autenticação com JWT
 - Testes automatizados com Mocha, Chai e Sinon
@@ -65,6 +65,3 @@ Aqui é o Felipe, tenho 31 anos e moro em Volta Redonda-RJ
 ## **:octocat: My Git Stats:**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
