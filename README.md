@@ -37,11 +37,10 @@ Back-End Developer | BTG Pactual | Beyond Solutions
 
 - Curto muito mixagem :minidisc: e tocar instrumentos como guitarra e bateria :metal: 
 - Gosto de pedalar :bicyclist: e treinar :muscle:
-- Tenho um projeto profissional paralelo online: <a href="https://escola130db.netlify.app/" target="_blank">Escola 130dB</a> 🔊
 - Tenho grande admiração por criação e edição audiovisual :movie_camera:
+- Tenho um projeto profissional paralelo online: <a href="https://escola130db.netlify.app/" target="_blank">Escola 130dB</a> 🔊
 - Gosto da filosofia budista e meditação :pray:
-- Iniciando a jornada profissional no universo Back-End :cloud:
-- Me conhecem mais pelo apelido 'Vaca' do que pelo meu próprio nome :joy:
+- Desde pequeno me conhecem mais pelo apelido 'Vaca' do que pelo meu próprio nome :joy:
 
 <hr> 
 
