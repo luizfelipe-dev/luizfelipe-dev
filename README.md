@@ -8,7 +8,7 @@ Back-End Developer | BTG Pactual | Beyond Solutions
 
 - Ensino Técnico em Informática pelo <a href="https://www.colegioict.com.br/">ICT</a> 
 - Bacharelado em Sistemas de Informação pela <a href="https://www.unifoa.edu.br/"> UniFOA</a> 
-- Estudante Full-Stack da <a href="https://www.betrybe.com/" target="_blank">Trybe</a> #VQV  :rocket:
+- Curso Full-Stack <a href="https://www.betrybe.com/" target="_blank">Trybe</a> #VQV  :rocket:
 
 <hr> 
 
