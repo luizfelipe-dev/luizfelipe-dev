@@ -1,6 +1,6 @@
 ## Olá, tudo bem? ###
 
-Back-End Developer | BTG Pactual | Beyond Solutions 
+Back-End Developer Since 2022 | BTG Pactual | Beyond Solutions 
 
 ![Coding](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
 
