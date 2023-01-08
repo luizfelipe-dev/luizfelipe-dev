@@ -1,6 +1,6 @@
 ## Olá, tudo bem? ###
 
-Back-End Developer Since 2022 | BTG Pactual | Beyond Solutions 
+Dev Back-End desde out/2021 @ BTG Pactual
 
 ![Coding](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
 
@@ -40,7 +40,7 @@ Back-End Developer Since 2022 | BTG Pactual | Beyond Solutions
 - Tenho grande admiração por criação e edição audiovisual :movie_camera:
 - Tenho um projeto profissional paralelo online: <a href="https://escola130db.netlify.app/" target="_blank">Escola 130dB</a> 🔊
 - Gosto da filosofia budista e meditação :pray:
-- Desde pequeno me conhecem mais pelo apelido 'Vaca' do que pelo meu próprio nome :joy:
+- Desde pequeno me conhecem mais pelo apelido 'Vaca' do que pelo meu próprio nome, graças ao RPG online que costumava jogar :joy:
 
 <hr> 
 
