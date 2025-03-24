@@ -1,8 +1,13 @@
 ## Olá, tudo bem? ###
 
-Dev Back-End desde out/2021 @ BTG Pactual
+Desenvolvedor Back-End | Node JS
 
 ![Coding](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
+
+## :construction_worker: Experiência
+
+- 2021 - 2025 @ BTG Pactual
+- 2025 - Hoje @ Yandeh
 
 ## :mortar_board: Graduação
 
