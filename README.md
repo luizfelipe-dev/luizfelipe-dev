@@ -7,7 +7,8 @@ Desenvolvedor Back-End | Node JS
 ## :construction_worker: Experiência
 
 - 2021 - 2025 @ BTG Pactual
-- 2025 - Hoje @ Yandeh
+- 2025 - 2026 @ Yandeh
+- 2026 - Escola130dB
 
 ## :mortar_board: Graduação
 
